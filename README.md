@@ -1,4 +1,4 @@
-#**CPSC 455 Quiz 1**
+#CPSC 455 Quiz 1
 
 #**Group Members:**
 Henry Torres
