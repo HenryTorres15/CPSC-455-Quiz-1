@@ -11,4 +11,4 @@
 ## Language
 * Javascript
 
-{google_docs}https://docs.google.com/document/d/e/2PACX-1vQafdnUEwfExjyhdkYAsuJEffo525UUZ9dULR62r6AbCfrpA1QgYZL90gTZTtktjH93QaM2iOXKoSv_/pub
+
