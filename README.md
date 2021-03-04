@@ -1,6 +1,6 @@
-**CPSC 455 Quiz 1**
+#**CPSC 455 Quiz 1**
 
-**Group Members:**
+#**Group Members:**
 Henry Torres
 Francisco Ramirez
 Miguel Pulido
