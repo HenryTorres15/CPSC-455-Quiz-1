@@ -4,8 +4,8 @@
 
 ## Members
 * Henry Torres - htorres15@csu.fullerton.edu
-* Francisco Ramirez -
-* Miguel Pulido - 
+* Francisco Ramirez - 
+* Miguel Pulido - mperez5891@csu.fullerton.edu
 * Manuel Perez - 
 
 ## Language
