@@ -2,7 +2,7 @@
 
 # Members
 ```
-Henry Torres - htorres15@csu.fullerton.edu
+Henry Torres (htorres15@csu.fullerton.edu)
 Francisco Ramirez -
 Miguel Pulido - 
 Manuel Perez - 
