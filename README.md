@@ -7,3 +7,6 @@
 * Francisco Ramirez -
 * Miguel Pulido - 
 * Manuel Perez - 
+
+## Language
+* Javascript
