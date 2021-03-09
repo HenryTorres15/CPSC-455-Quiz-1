@@ -1,7 +1,7 @@
 // For keyboard input
 const readline = require('readline-sync');
 
-// -----------------------------------------------
+// ----------------------------------------------- Henry Torres was here!
 // Clear the screen
 // -----------------------------------------------
 function clearScreeen()
@@ -22,6 +22,16 @@ function Account(acctName, acctBalance, type)
 	// The account name
 	this.acctName = acctName;
 	
+	oaefnaoeifnqeo;fnqweofjn
+wfwf
+wf
+wefw
+f
+wef
+wf
+w
+f
+wef
 	// The account amount
 	this.acctBalance = acctBalance;
 		
